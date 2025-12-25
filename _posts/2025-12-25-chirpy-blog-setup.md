@@ -1,6 +1,6 @@
 ---
 title: Chirpy 블로그 세팅 기록 (GitHub Pages + Jekyll)
-date: 2025-12-25 18:00:00 +0900
+date: 2025-12-24 18:00:00 +0900
 categories: [Blog, Jekyll]
 tags: [jekyll, chirpy, github-pages, github-actions, blog]
 ---
