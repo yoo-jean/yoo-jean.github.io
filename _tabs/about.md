@@ -1,7 +1,7 @@
 ---
 title: About
-icon: user
-order: 1
+icon: fas fa-info-circle
+order: 4
 ---
 
 ## 👋 안녕하세요
