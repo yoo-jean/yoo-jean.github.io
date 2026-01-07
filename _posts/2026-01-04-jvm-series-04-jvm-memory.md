@@ -27,7 +27,7 @@ JVM은 프로그램 실행을 위해 여러 메모리 영역을 사용하며,
 - static 변수 및 상수 저장
 - 모든 스레드가 공유
 
-#### Java 8 이후: Metaspace
+### Java 8 이후: Metaspace
 
 - Java 8부터 Method Area 구현이 **PermGen → Metaspace**로 변경
 - Metaspace는 **Native Memory(운영체제 메모리)** 를 사용
