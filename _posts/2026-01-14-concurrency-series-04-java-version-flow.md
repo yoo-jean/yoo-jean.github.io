@@ -5,7 +5,6 @@ categories: [CS, Concurrency]
 tags: [java, thread, executor, completablefuture]
 ---
 
-## 4. Java에서 스레드를 사용하는 방법 (버전 흐름)
 
 이 글은  
 **“Java는 왜 이렇게 스레드 사용 방식이 바뀌어 왔는가?”**를 이해하는 데 목적이 있다.

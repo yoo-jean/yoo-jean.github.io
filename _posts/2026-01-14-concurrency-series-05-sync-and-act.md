@@ -5,7 +5,6 @@ categories: [CS, Concurrency]
 tags: [sync, async, blocking, non-blocking]
 ---
 
-## 5. 동기화와 실행 방식의 차이
 
 이 장에서는 **동기/비동기**와 **Blocking/Non-Blocking**을  
 "스레드가 멈추는가?"라는 하나의 기준으로 정리한다.
@@ -100,7 +99,7 @@ tags: [sync, async, blocking, non-blocking]
 | 동기 + Blocking | 결과 기다림 | 스레드 멈춤 |
 | 동기 + Non-Blocking | 결과 필요 | 스레드는 계속 실행 |
 | 비동기 + Blocking | 흐름 분리 | 결과 받을 때 멈춤 |
-| 비동기 + Non-Blocking | 흐름 분리 | 스레드 멈추지 않음 ⭐ |
+| 비동기 + Non-Blocking | 흐름 분리 | 스레드 멈추지 않음 |
 
 ---
 

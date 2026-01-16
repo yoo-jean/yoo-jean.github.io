@@ -5,7 +5,6 @@ categories: [CS, Concurrency]
 tags: [process, thread, concurrency, os, java]
 ---
 
-## 1. 프로세스와 스레드
 
 동시성(Concurrency)을 이해하기 위해 가장 먼저 짚고 넘어가야 할 개념은  
 **프로세스(Process)** 와 **스레드(Thread)** 이다.

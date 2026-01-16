@@ -5,8 +5,6 @@ categories: [CS, Concurrency]
 tags: [thread, concurrency, daemon, threadlocal]
 ---
 
-# 2. Java 스레드 모델
-
 Java의 스레드 모델은 JVM 내부 구조와 OS 스레드 모델을 이해하는 데서 시작된다.  
 Java 스레드의 동작 방식, 데몬 스레드, 그리고 ThreadLocal까지 정리한다.
 

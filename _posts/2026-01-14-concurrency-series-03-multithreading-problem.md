@@ -5,8 +5,6 @@ categories: [CS, Concurrency]
 tags: [multithreading, concurrency, performance]
 ---
 
-## 3. 멀티스레딩의 현실적인 문제
-
 멀티스레딩은 성능 향상을 위한 강력한 도구이지만  
 현실에서는 오히려 복잡성과 위험을 동반한다.  
 멀티스레딩이 실제로 어떤 문제를 만들고, 왜 신중하게 사용해야 하는지를 정리해본다.
