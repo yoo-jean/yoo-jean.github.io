@@ -1,6 +1,6 @@
 ---
 title: JPA 핵심 개념 정리 ② 연관관계
-date: 20202-15 20:00:00 +0900
+date: 2026-02-15 20:00:00 +0900
 categories: [CS, JPA]
 tags: [JPA, Hibernate, 연관관계, OneToMany, ManyToOne, 영속성컨텍스트]
 ---
