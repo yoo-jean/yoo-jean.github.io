@@ -1,5 +1,5 @@
 ---
-title: 데이터베이스 핵심 개념 정리 ⑤ Lock
+title: 데이터베이스 핵심 개념 정리 ⑤ Join(Inner. Outer. Full, Cross)
 date: 2026-03-01 20:00:00 +0900
 categories: [CS, Database]
 tags: [JOIN, InnerJoin, OuterJoin, CrossJoin, SQL, DB, Query]
